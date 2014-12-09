@@ -81,6 +81,7 @@ module.exports = (grunt) ->
                         'js/**'
                         'css/*.css'
                         'images/**'
+                        'favicon.ico'
                     ]
                     dest: 'dist/'
                 },{
