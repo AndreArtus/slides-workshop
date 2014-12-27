@@ -4,8 +4,11 @@
 # General
 
 * [Core Competencies](https://en.wikipedia.org/wiki/Core_competency)
-* [Professionalism](https://en.wikipedia.org/wiki/Professional)
-* [Pair Programming](https://en.wikipedia.org/wiki/Pair_programming)
-* [Version Control](https://en.wikipedia.org/wiki/Git_%28software%29)
-* [Test Driven Development](https://en.wikipedia.org/wiki/Test-driven_development)
-* Later also [Behavior-driven Development](https://en.wikipedia.org/wiki/Behavior-driven_development)
+  * [Teamwork](https://en.wikipedia.org/wiki/Teamwork)
+  * [Requirements Analysis](https://en.wikipedia.org/wiki/Requirements_analysis)
+  * [Software Design](https://en.wikipedia.org/wiki/Software_design)
+  * [Programming](https://en.wikipedia.org/wiki/Computer_programming)
+  * [Software Development Process](https://en.wikipedia.org/wiki/Software_development_process):
+    * [Test Driven Development](https://en.wikipedia.org/wiki/Test-driven_development)
+    * [Behavior-driven Development](https://en.wikipedia.org/wiki/Behavior-driven_development)
+
